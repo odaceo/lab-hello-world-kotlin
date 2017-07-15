@@ -25,7 +25,7 @@ cd /vagrant
 The compile command makes a standalone JAR file.
 
 ``` shell
-gradle build
+./gradlew build
 ```
 
 ## Running the application
